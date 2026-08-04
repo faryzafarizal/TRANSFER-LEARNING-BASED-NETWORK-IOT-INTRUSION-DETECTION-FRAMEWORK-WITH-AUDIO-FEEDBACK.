@@ -1,0 +1,12 @@
+# Ignore dataset directory
+dataset/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
